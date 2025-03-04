@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document establishes the **structural and versioning framework** for aarg.v1,0,0. The **aarg system** is a **hierarchically organized, version-controlled model** designed to facilitate the structured development of inventions, prototypes, projects, goals, research, and supporting resources. This system ensures **scalability, maintainability, and semantic clarity** across all structured components.
+This document establishes the **structural and versioning framework** for aarg.v1,0,0. The **aarg system** is a **hierarchically organized, version-controlled model** designed to facilitate the structured development of inventions, prototypes, projects, goals, research, and supporting resources. This system ensures **scalability, maintainability, and clarity** across all structured components and how they work together.
 
 ## Versioning System
 
