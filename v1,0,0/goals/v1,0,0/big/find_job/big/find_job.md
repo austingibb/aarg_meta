@@ -26,5 +26,3 @@ To achieve this, I will act as my own **career agent**, approaching the job sear
 This structured approach **removes ambiguity**, ensuring a **methodical** and **efficient** job search strategy.  
 
 ---
-
-Now with **June 1st, 2025** as the hard deadline, it’s **fully SMART-compliant** and time-bound. Let me know if you want any other refinements! 🚀
